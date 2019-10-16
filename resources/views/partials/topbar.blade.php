@@ -20,7 +20,7 @@
         </a>
 
         
-
+        <div class="clearfix"></div>
     </nav>
 </header>
 
